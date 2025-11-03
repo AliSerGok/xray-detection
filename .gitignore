@@ -1,0 +1,23 @@
+.venv/ 
+__pycache__/ 
+*.py[cod] 
+*.log 
+.vscode/ 
+.idea/ 
+*.sqlite3 
+Thumbs.db 
+.DS_Store 
+# Python virtual environment
+venv/
+
+# Node modules
+node_modules/
+
+# Build / cache klasörleri
+dist/
+build/
+.cache/
+
+# Log dosyaları
+*.log
+*.tmp
